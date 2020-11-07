@@ -100,4 +100,5 @@ main > img {
     float: right;
     width: 50%;
     margin-top: 40px;
+    object-fit: contain;
 }
